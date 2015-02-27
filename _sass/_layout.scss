@@ -1,4 +1,28 @@
 /**
+ * Blog page
+ */
+.blog_main {
+  float:left;
+  width:60%;
+}
+
+.blog_sidebar {
+  float:right;
+  width:40%;
+}
+
+/*
+ * Custom figure hadler
+ */
+.large-img {
+  float: none;
+  position: center;
+  max-width: 100%;
+  height: auto;
+  width: auto\9;
+}
+
+/**
  * Site header
  */
 .site-header {

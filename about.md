@@ -33,15 +33,23 @@ permalink: /about/
 * [Directory with all publication files](https://www.dropbox.com/sh/ba3rduobhvanhyb/AAC35RlrGfriqLE5rRY9aIgia?dl=0)
 
 ## Awards
-### Computer Science work at UFPR undergraduate research event
-* 1st place in the years 2009, 2011 and 2012
-### ACM, International Collegiate Programming Contest, 2012
-* 11th place at the programming contest, South America, Londrina (PR - Brazil)
-* 2nd place at the programming contest, Parana, Curitiba (PR - Brazil)
-### IEEEXtreme Programming Competition 5.0, 2011
-* 67th place (out of 1515 teams)
-### XXVII Congresso Nacional de Estudantes de Computação, 2009
-* 1st place at the programming contest, Curitiba (PR - Brazil)
+**Computer Science work at UFPR undergraduate research event**
+
+1st place in the years 2009, 2011 and 2012
+
+**ACM, International Collegiate Programming Contest, 2012**
+
+11th place at the programming contest, South America, Londrina (PR - Brazil)
+
+2nd place at the programming contest, Parana, Curitiba (PR - Brazil)
+
+**IEEEXtreme Programming Competition 5.0, 2011**
+
+67th place (out of 1515 teams)
+
+**XXVII Congresso Nacional de Estudantes de Computação, 200**
+
+1st place at the programming contest, Curitiba (PR - Brazil)
 
 ## Network
 [Twitter](https://twitter.com/rafaeltibaes) •

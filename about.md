@@ -4,32 +4,33 @@ title: About
 permalink: /about/
 ---
 
-![](/assets/profile.png)My name is Rafael Henrique Tibães, born in 1990. I am a **Software Engineer** with experience in **Computer Vision**, **Data Analysis** and **High Performance Computing**. My favorite field of study is video processing, specifically motion analysis problems, such as behavioural and action recognition; scene understanding; optical flow; object detection, recognition and tracking. You can get my full [Curriculum](https://www.dropbox.com/sh/j772u5yseoexune/AADreTb10eu7wDGlRyfAjWPva?dl=0) in english or portuguese as pdf file.
+![](/assets/profile.png)My name is Rafael Henrique Tibães, born in 1990. I am a **Software Engineer** with experience in **Computer Vision**, **Data Analysis** and **High Performance Computing**. My favourite field of study is video processing, specifically motion analysis problems, such as behavioural and action recognition; scene understanding; optical flow; object detection, recognition and tracking. However, what I really like is to solve complex computational problems. You can get my full [Curriculum](https://www.dropbox.com/sh/j772u5yseoexune/AADreTb10eu7wDGlRyfAjWPva?dl=0) in english or portuguese as pdf file.
 
 ## Experience
-* Research & Development at [IMAGO Research Group, UFPR](http://www.imago.ufpr.br). (2008-2015)
+* Academic researcher at [IMAGO Research Group, UFPR](http://www.imago.ufpr.br). (2008-2015)
 * Teaching Assistance at [Federal University of Paraná (UFPR)](http://www.ufpr.br) (2012-2013)
 
 ## Education
-* Master os Science, Informatics at [Federal University of Paraná (UFPR)](http://www.ufpr.br) (Incomplete)
 * Bachelor of Science, Computer Science at [Federal University of Paraná (UFPR)](http://www.ufpr.br) (2012)
 
 ## Languages
 * Portuguese is my mother tongue;
-* Engligh, full business proficiency (B2);
+* English, full business proficiency (B2);
 * German, basic user (A1).
 
 ## Programming Skills
-* C / C++ for high performance; key features: STL, C++11 and OpenCV.
+* C / C++ for high performance using STL, C++11.
+* OpenCV library for image processing and computer vision.
 * OpenCL and CUDA for parallel computing.
 * Bash and Ruby for scripting and web services.
-* Python for prototyping Computer Vision and Data Analysis problems.
-* Wolfram Language to design equations and data visualization.
-* Apple Swift and Cocoa framework for user interface.
+* Python as general language, using NumPy, Pandas and Matplotlib.
+* Wolfram Mathematica to design and visualise equations.
+* Apple Swift and Cocoa framework for user interface, using MVC.
+* Notions of MapReduce, R, Android, SQL and Rails.
 
 ## Publications
-* [] Rafael Henrique Tibães, Maurício Pamplona Segundo, Luciano Silva, Olga Regina Pereira Bellon.  **Detecção facial em GPU invariante a pose e escala usando imagens de profundidade.** Workshop of Undergraduate Works at Brazilian Symposium on Computer Graphics and Image Processing (WOW-SIBGRAPI, 2011)
-* [] Rafael Henrique Tibães. **Detecção facial em imagens 3D utilizando processamento paralelo.** Monografia, Bacharelado em Ciências da Computação, Universidade Federal do Paraná (2012)
+* Rafael Henrique Tibães, Maurício Pamplona Segundo, Luciano Silva, Olga Regina Pereira Bellon.  **Detecção facial em GPU invariante a pose e escala usando imagens de profundidade.** Workshop of Undergraduate Works at Brazilian Symposium on Computer Graphics and Image Processing (WOW-SIBGRAPI, 2011)
+* Rafael Henrique Tibães. **Detecção facial em imagens 3D utilizando processamento paralelo.** Monografia, Bacharelado em Ciências da Computação, Universidade Federal do Paraná (2012)
 * [Directory with all publication files](https://www.dropbox.com/sh/ba3rduobhvanhyb/AAC35RlrGfriqLE5rRY9aIgia?dl=0)
 
 ## Awards

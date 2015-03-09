@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Toptal Application”
+title:  "Toptal Application"
 date:   2015-02-28 16:02:00
 categories: life
 ---

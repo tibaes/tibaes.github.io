@@ -2,7 +2,7 @@
 layout: post
 title:  "Hacking the GoPro network"
 date:   2015-02-27 17:26:00
-categories: developer network
+categories: hacks
 ---
 If you want to send commands to the GoPro camera without using the official app,
  here are some tips that may help you. First, connect the device

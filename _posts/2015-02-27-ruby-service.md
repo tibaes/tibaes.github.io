@@ -2,7 +2,7 @@
 layout: post
 title:  "Ruby one line service"
 date:   2015-02-27 17:10:00
-categories: developer network
+categories: hacks
 ---
 You can get a HTTP server using only ruby.
 There is no need to setup apache, lighttp or nginx

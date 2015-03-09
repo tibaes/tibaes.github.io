@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Migration to Jekyll"
+title:  Migration to Jekyll
 date:   2015-02-27 17:58:00
-categories: life network
+categories: life
 ---
 
 Migration complete from [Wordpress](https://wordpress.org) to

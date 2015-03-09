@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+comments : false
 ---
 
 ![](/assets/profile.png)My name is Rafael Henrique Tibães, born in 1990. I am a **Software Engineer** with experience in **Computer Vision**, **Data Analysis** and **High Performance Computing**. My favourite field of study is video processing, specifically motion analysis problems, such as behavioural and action recognition; scene understanding; optical flow; object detection, recognition and tracking. However, what I really like is to solve complex computational problems. You can get my full [Curriculum](https://www.dropbox.com/sh/j772u5yseoexune/AADreTb10eu7wDGlRyfAjWPva?dl=0) in english or portuguese as pdf file.

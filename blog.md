@@ -5,7 +5,7 @@ permalink: /blog/
 comments : false
 ---
 
-![](/assets/infectious.png)
+<img class="large-img" src="/assets/infectious.png">
 
 # Categories
 
@@ -14,5 +14,3 @@ comments : false
 ## [Hacks](/blog/#hacks)
 
 ## [Science](/blog/#science)
-
-## [+](/blog)

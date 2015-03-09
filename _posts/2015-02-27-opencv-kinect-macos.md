@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "OpenCV Kinect MacOS Brew +"
+title:  "OpenCV with brew"
 date:   2015-02-27 11:32:00
 categories: hacks
+comments: true
 ---
 # Installation
 To install OpenCV v2.4.9 with OpenNI support, first you need to install Apple XCode Command Line Tools, Java and Java SDK. Then you can use the following brew commands:

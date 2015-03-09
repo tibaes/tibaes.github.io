@@ -3,6 +3,7 @@ layout: post
 title: Kullback Leibler Divergence
 date: 2015-03-07 13:37
 categories: science
+comments: false
 ---
 
 # Concept

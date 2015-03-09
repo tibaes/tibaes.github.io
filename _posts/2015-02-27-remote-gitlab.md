@@ -3,6 +3,7 @@ layout: post
 title:  "Remote Gitlab through SSH"
 date:   2015-02-27 11:32:00
 categories: hacks
+comments: true
 ---
 
 # Terminal

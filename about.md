@@ -23,8 +23,7 @@ comments : false
 * C / C++ for high performance using STL, C++11.
 * OpenCV library for image processing and computer vision.
 * OpenCL and CUDA for parallel computing.
-* Bash and Ruby for scripting and web services.
-* Python as general language, using NumPy, Pandas and Matplotlib.
+* Bash, Python and Ruby for scripting, prototyping and web services.
 * Wolfram Mathematica to design and visualise equations.
 * Apple Swift and Cocoa framework for user interface, using MVC.
 * Notions of MapReduce, R, Android, SQL and Rails.

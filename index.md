@@ -8,8 +8,8 @@ comments : false
 
 # Categories
 
-## [Life](/blog/#life)
+## [Life](/#life)
 
-## [Hacks](/blog/#hacks)
+## [Hacks](/#hacks)
 
-## [Science](/blog/#science)
+## [Science](/#science)

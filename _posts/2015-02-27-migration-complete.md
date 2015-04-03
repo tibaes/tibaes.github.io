@@ -23,27 +23,7 @@ custom domain name and, after all, being provided by Github.
 
 To separate the main page into categories, I used the following code that I figured out by myself.
 If you need help to understand this code, you may write a message in the comments.
-
-{% highlight html %}
-<div class="blog_main">
-  <ul class="post-list">
-
-    {% for category in site.categories %}
-
-      <h1><a name="{{ category[0] }}">{{ category[0] }}</a></h1>
-
-      {% for post in category[1] %}
-        <li>
-          <h3>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h3>
-        </li>
-      {% endfor %}
-
-    {% endfor %}
-  </ul>
-</div>
-{% endhighlight %}
+<script src="https://gist.github.com/tibaes/6b63d0c7e41e2d8961d8.js"></script>
 
 # Original migration welcome message
 

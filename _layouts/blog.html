@@ -14,7 +14,7 @@ layout: default
         {% for post in category[1] %}
           <li>
             <h3>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">({{ post.date | date: "%m/%Y" }}) {{ post.title }}</a>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h3>
           </li>
         {% endfor %}

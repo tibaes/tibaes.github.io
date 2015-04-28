@@ -48,6 +48,7 @@ comments : false
 * [Apple](https://developer.apple.com)
 * [Wolfram](http://reference.wolfram.com)
 * [Interpreted Languages](http://hyperpolyglot.org/scripting)
+* [Software Licenses](https://tldrlegal.com)
 
 # Tools
 * [Mathematica, for symbolic programming](http://www.wolfram.com/mathematica/)

@@ -40,6 +40,7 @@ comments : false
 # Programming
 * [C++](http://en.cppreference.com)
 * [Point Cloud Library](http://pointclouds.org/documentation)
+* [OpenBR](http://openbiometrics.org)
 * [OpenCV](http://docs.opencv.org)
 * [OpenCL](https://www.khronos.org/opencl)
 * [NVidia](https://developer.nvidia.com)

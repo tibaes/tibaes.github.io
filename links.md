@@ -13,6 +13,7 @@ comments : false
 * [Germany, Education Ministry](http://www.bmbf.de/en)
 
 # Knowledge
+* [Face Recognition](http://www.face-rec.org)
 * [IEEE Xplore](http://ieeexplore.ieee.org)
 * [ScienceDirect](http://www.sciencedirect.com)
 * [Web of Knowledge](http://www.webofknowledge.com)

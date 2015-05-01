@@ -13,6 +13,7 @@ comments : false
 * [Germany, Education Ministry](http://www.bmbf.de/en)
 
 # Knowledge
+* [Face Recognition](http://www.face-rec.org)
 * [IEEE Xplore](http://ieeexplore.ieee.org)
 * [ScienceDirect](http://www.sciencedirect.com)
 * [Web of Knowledge](http://www.webofknowledge.com)
@@ -40,6 +41,7 @@ comments : false
 # Programming
 * [C++](http://en.cppreference.com)
 * [Point Cloud Library](http://pointclouds.org/documentation)
+* [OpenBR](http://openbiometrics.org)
 * [OpenCV](http://docs.opencv.org)
 * [OpenCL](https://www.khronos.org/opencl)
 * [NVidia](https://developer.nvidia.com)
@@ -48,6 +50,7 @@ comments : false
 * [Apple](https://developer.apple.com)
 * [Wolfram](http://reference.wolfram.com)
 * [Interpreted Languages](http://hyperpolyglot.org/scripting)
+* [Software Licenses](https://tldrlegal.com)
 
 # Tools
 * [Mathematica, for symbolic programming](http://www.wolfram.com/mathematica/)

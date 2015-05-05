@@ -4,7 +4,7 @@ title: Curriculum
 permalink: /cv/
 ---
 
-![](/assets/profile.png)My name is Rafael Henrique Tibães, born in 1990. I am a **Software Engineer** with experience in **Computer Vision**, **Data Analysis** and **High Performance Computing**. My favourite field of study is video processing, specifically motion analysis problems, such as behavioural and action recognition; scene understanding; optical flow; object detection, recognition and tracking.
+![](/assets/profile.png)My name is Rafael Henrique Tibães, born in 1990. I am a **Software Engineer** with experience in **Computer Vision**, **Data Analysis** and **High Performance Computing**. My favourite field of study is video processing, specifically motion analysis problems, such as behavioural and action recognition; scene understanding; optical flow; object detection, recognition and tracking. Now I am working with affective computing & face analysis, i.e. face detection, quality of image and expressions.
 
 ## Experience
 * Computer vision researcher & Software developer at [Akiyama, Curitiba](http://akiyama.com.br) (since 2015)

@@ -1,7 +1,6 @@
 ---
 layout: blog
 permalink: /
-comments : false
 ---
 
 <img class="large-img" src="/assets/infectious.png">
@@ -22,4 +21,4 @@ comments : false
 • [Google+](http://gg.fael.nl)
 • [Lattes](http://lattes.fael.nl)
 • [ResearchGate](http://rg.fael.nl)
-• 
+•

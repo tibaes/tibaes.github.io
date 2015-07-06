@@ -29,7 +29,6 @@ permalink: /links/
 * [Conference Calendar for Computer Vision, Image Analysis and Related Topics](http://iris.usc.edu/information/Iris-Conferences.html)
 
 # Learning
-
 * [WolframAlpha](http://www.wolframalpha.com)
 * [Udacity](https://www.udacity.com)
 * [SPOJ](http://www.spoj.pl)
@@ -38,25 +37,29 @@ permalink: /links/
 * [Virtual Online Contests](http://ahmed-aly.com)
 
 # Programming
-* [C++](http://en.cppreference.com)
-* [Point Cloud Library](http://pointclouds.org/documentation)
-* [OpenBR](http://openbiometrics.org)
-* [OpenCV](http://docs.opencv.org)
+* [C++, cpp](http://en.cppreference.com)
+* [C++, c++](http://cplusplus.com)
 * [OpenCL](https://www.khronos.org/opencl)
-* [NVidia](https://developer.nvidia.com)
-* [Ruby](http://www.ruby-doc.org)
-* [Latex](http://en.wikibooks.org/wiki/LaTeX)
-* [Apple](https://developer.apple.com)
 * [Wolfram](http://reference.wolfram.com)
+* [NVidia](https://developer.nvidia.com)
+* [Apple](https://developer.apple.com)
+* [Latex](http://en.wikibooks.org/wiki/LaTeX)
+* [Node](https://nodejs.org)
 * [Interpreted Languages](http://hyperpolyglot.org/scripting)
 * [Software Licenses](https://tldrlegal.com)
+
+# Libraries
+* [OpenCV](http://docs.opencv.org)
+* [OpenBR](http://openbiometrics.org)
+* [Point Cloud Library](http://pointclouds.org/documentation)
+* [IntraFace](http://www.humansensing.cs.cmu.edu/)
+* [D3 JavaScript Plotting](http://d3js.org)
 
 # Tools
 * [Mathematica, for symbolic programming](http://www.wolfram.com/mathematica/)
 * [FishShell, an happier version of bash](http://fishshell.com)
 * [Tor, for web privacy](https://www.torproject.org)
 * [VLC, the general media player](http://www.videolan.org/vlc/)
-* [RDio, music streaming and discovery](http://rdio.com)
 * [Viscosity, the best VPN client for MacOS](https://www.sparklabs.com/viscosity)
 * [Vim, the best code editor for terminal](http://www.vim.org)
 * [GitX, a graphical tool for git on MacOS](http://gitx.org)
@@ -65,6 +68,7 @@ permalink: /links/
 * [Brew, the best package manager on MacOS](http://brew.sh)
 * [Tex, the Latex repository](http://www.tug.org)
 * [iDraw, the best vetorial tool for MacOS to design R&amp;D stuff](http://www.indeeo.com/idraw)
+* [PixelMator, photoshop like editor](http://www.pixelmator.com)
 * [MacOS, sure the best user oriented OS](http://www.apple.com/osx)
 
 # Hardware
@@ -72,6 +76,8 @@ permalink: /links/
 * [Cray Super Computers](http://www.cray.com)
 * [Parallella, Low Cost Computers](http://www.parallella.org)
 * [RaspberryPi, Really Low Cost Computers](http://www.raspberrypi.org)
+* [Toradex, System on Board modules](https://www.toradex.com)
+* [Texas Instruments, a lot of micro controllers](http://www.ti.com)
 * [Vicon, High Speed Cameras](http://www.vicon.com)
 * [IDTVision, High Speed Cameras](http://www.idtvision.com)
 * [Hasselblad, Professional Cameras](http://www.hasselblad.com)
@@ -97,6 +103,7 @@ permalink: /links/
 * [European Organization for Nuclear Research, France and Switzerland](http://home.web.cern.ch)
 * [Disney Research, USA and Switzerland](http://www.disneyresearch.com)
 * [Mitsubishi Electric Research Laboratories, USA](http://www.merl.com)
+* [Robotics Institute CMU, Fernando De la Torre, USA](http://www.cs.cmu.edu/~ftorre/)
 
 # Datasets
 * [University of Milano Bicocca 3D Face Database (UMB-DB)](http://www.ivl.disco.unimib.it/umbdb/request.html)
@@ -104,6 +111,7 @@ permalink: /links/
 * [Facial Expressions](http://cs.anu.edu.au/few/emotiw.html)
 * [Database List](http://homepages.inf.ed.ac.uk/rbf/CVonline/)
 * [Kinect Gaming Gestures](http://dipersec.king.ac.uk/G3D/G3D.html)
+* [Basel Face Model](http://faces.cs.unibas.ch/bfm/)
 
 # Blogs
 * [Computer Vision for dummies](http://www.visiondummy.com)

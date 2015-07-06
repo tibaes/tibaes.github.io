@@ -13,7 +13,6 @@ permalink: /
 • [GitHub](http://git.fael.nl)
 • [BitBucket](http://bb.fael.nl)
 • [Dropbox](http://rand.fael.nl)
-• [Rdio](http://rdio.fael.nl)
 • [Steam](http://steam.fael.nl)
 • [Twitter](http://tt.fael.nl)
 • [LinkedIn](http://in.fael.nl)

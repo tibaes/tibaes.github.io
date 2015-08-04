@@ -8,6 +8,9 @@ permalink: /
 </div>
 
 # Network
+• [Akiyama](http://www.akiyama.com.br)
+• [IMAGO](http://www.imago.ufpr.br) • 
+
 • [Logbook](http://wp.fael.nl)
 • [Dropbox](http://rand.fael.nl) • 
 

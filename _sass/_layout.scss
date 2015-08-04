@@ -1,9 +1,3 @@
-.index_main {
-  float:center;
-  width:60%;
-  position:center;
-}
-
 /**
  * Blog page
  */
@@ -22,9 +16,9 @@
  * Custom figure hadler
  */
 .large-img {
-  float: none;
+  float: center;
   position: center;
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
   width: auto\9;
 }

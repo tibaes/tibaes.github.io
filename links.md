@@ -10,6 +10,7 @@ permalink: /links/
 * [Germany, research portal](http://www.research-in-germany.org)
 * [Germany, DAAD](https://www.daad.de)
 * [Germany, Education Ministry](http://www.bmbf.de/en)
+* [Sweden, Study in Sweden](http://www.studying-in-sweden.com)
 
 # Knowledge
 * [Face Recognition](http://www.face-rec.org)
@@ -39,21 +40,26 @@ permalink: /links/
 # Programming
 * [C++, cpp](http://en.cppreference.com)
 * [C++, c++](http://cplusplus.com)
+* [OpenCV](http://docs.opencv.org)
 * [OpenCL](https://www.khronos.org/opencl)
+* [Halide](http://halide-lang.org)
+* [Point Cloud Library](http://pointclouds.org/documentation)
 * [Wolfram](http://reference.wolfram.com)
 * [NVidia](https://developer.nvidia.com)
 * [Apple](https://developer.apple.com)
 * [Latex](http://en.wikibooks.org/wiki/LaTeX)
 * [Node](https://nodejs.org)
+* [D3 JavaScript Plotting](http://d3js.org)
 * [Interpreted Languages](http://hyperpolyglot.org/scripting)
 * [Software Licenses](https://tldrlegal.com)
 
-# Libraries
-* [OpenCV](http://docs.opencv.org)
+# Biometrics
 * [OpenBR](http://openbiometrics.org)
-* [Point Cloud Library](http://pointclouds.org/documentation)
 * [IntraFace](http://www.humansensing.cs.cmu.edu/)
-* [D3 JavaScript Plotting](http://d3js.org)
+* [DLib](http://dlib.net)
+* [STASM - face landmarks](http://www.milbo.users.sonic.net/stasm/)
+* [FLandmark](http://cmp.felk.cvut.cz/~uricamic/flandmark/)
+* [CLandmark](https://github.com/uricamic/clandmark)
 
 # Tools
 * [Mathematica, for symbolic programming](http://www.wolfram.com/mathematica/)
@@ -62,14 +68,13 @@ permalink: /links/
 * [VLC, the general media player](http://www.videolan.org/vlc/)
 * [Viscosity, the best VPN client for MacOS](https://www.sparklabs.com/viscosity)
 * [Vim, the best code editor for terminal](http://www.vim.org)
-* [GitX, a graphical tool for git on MacOS](http://gitx.org)
 * [Atom, the text editor from GitHub](http://atom.io)
-* [Wireshark, too see what's going on in the local network](https://www.wireshark.org)
 * [Brew, the best package manager on MacOS](http://brew.sh)
 * [Tex, the Latex repository](http://www.tug.org)
 * [iDraw, the best vetorial tool for MacOS to design R&amp;D stuff](http://www.indeeo.com/idraw)
 * [PixelMator, photoshop like editor](http://www.pixelmator.com)
 * [MacOS, sure the best user oriented OS](http://www.apple.com/osx)
+* [Autodesk Fusion](http://www.autodesk.com/products/fusion-360/)
 
 # Hardware
 * [Apple Computers](https://apple.com)
@@ -86,6 +91,21 @@ permalink: /links/
 * [Ful-3D, low cost 3D Scanner](https://fuel-3d.com)
 * [B&amp;H, Camera Shopping](http://www.bhphotovideo.com)
 * [DirectIndustry, Electronics Shopping](http://www.directindustry.com)
+* [Digikey, MicroElectronics Shopping](http://www.digikey.com/)
+* [Sparkfun, Electronics](https://www.sparkfun.com)
+* [3DXTech, 3D filaments](http://www.3dxtech.com)
+
+# Drones
+* [Parrot](http://www.parrot.com/)
+* [DJI](http://www.dji.com)
+* [3DR](http://3drobotics.com)
+* [Percepto](http://www.percepto.co)
+* [Ardupilot](http://ardupilot.com)
+* [Dronecode](https://www.dronecode.org)
+* [Pixhawk](http://pixhawk.org)
+* [OpenPilot](http://www.openpilot.org)
+* [DIYDrone](http://diydrones.com)
+* [DIYGit](http://diydrones.com)
 
 # Laboratories
 * [IMAGO Research Group, UFPR, Brazil](http://www.imago.ufpr.br)
@@ -112,6 +132,10 @@ permalink: /links/
 * [Database List](http://homepages.inf.ed.ac.uk/rbf/CVonline/)
 * [Kinect Gaming Gestures](http://dipersec.king.ac.uk/G3D/G3D.html)
 * [Basel Face Model](http://faces.cs.unibas.ch/bfm/)
+* [FERET](http://itl.nist.gov/iad/humanid/feret/feret_master.html)
+* [MUCT](http://www.milbo.org/muct/)
+* [NIST GBU](http://www.nist.gov/itl/iad/ig/focs.cfm)
 
 # Blogs
 * [Computer Vision for dummies](http://www.visiondummy.com)
+* [3D Print](http://3dprint.com)

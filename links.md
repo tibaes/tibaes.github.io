@@ -76,13 +76,18 @@ permalink: /links/
 * [MacOS, sure the best user oriented OS](http://www.apple.com/osx)
 * [Autodesk Fusion](http://www.autodesk.com/products/fusion-360/)
 
-# Hardware
+# Computers
 * [Apple Computers](https://apple.com)
 * [Cray Super Computers](http://www.cray.com)
 * [Parallella, Low Cost Computers](http://www.parallella.org)
 * [RaspberryPi, Really Low Cost Computers](http://www.raspberrypi.org)
 * [Toradex, System on Board modules](https://www.toradex.com)
 * [Texas Instruments, a lot of micro controllers](http://www.ti.com)
+* [DirectIndustry, Electronics Shopping](http://www.directindustry.com)
+* [Digikey, MicroElectronics Shopping](http://www.digikey.com/)
+* [Sparkfun, Electronics](https://www.sparkfun.com)
+
+# Cameras
 * [Vicon, High Speed Cameras](http://www.vicon.com)
 * [IDTVision, High Speed Cameras](http://www.idtvision.com)
 * [Hasselblad, Professional Cameras](http://www.hasselblad.com)
@@ -90,10 +95,6 @@ permalink: /links/
 * [Aicon, 3D Scanners](http://aicon3d.com)
 * [Ful-3D, low cost 3D Scanner](https://fuel-3d.com)
 * [B&amp;H, Camera Shopping](http://www.bhphotovideo.com)
-* [DirectIndustry, Electronics Shopping](http://www.directindustry.com)
-* [Digikey, MicroElectronics Shopping](http://www.digikey.com/)
-* [Sparkfun, Electronics](https://www.sparkfun.com)
-* [3DXTech, 3D filaments](http://www.3dxtech.com)
 
 # Drones
 * [Parrot](http://www.parrot.com/)
@@ -106,6 +107,14 @@ permalink: /links/
 * [OpenPilot](http://www.openpilot.org)
 * [DIYDrone](http://diydrones.com)
 * [DIYGit](http://diydrones.com)
+
+# 3D Printers
+* [3D Print](http://3dprint.com)
+* [BigRep](http://bigrep.com/)
+* [FormLabs](http://formlabs.com)
+* [LulzBot](https://www.lulzbot.com)
+* [NinjaFlex](http://www.ninjaflex3d.com)
+* [3DXTech, 3D filaments](http://www.3dxtech.com)
 
 # Laboratories
 * [IMAGO Research Group, UFPR, Brazil](http://www.imago.ufpr.br)
@@ -124,6 +133,7 @@ permalink: /links/
 * [Disney Research, USA and Switzerland](http://www.disneyresearch.com)
 * [Mitsubishi Electric Research Laboratories, USA](http://www.merl.com)
 * [Robotics Institute CMU, Fernando De la Torre, USA](http://www.cs.cmu.edu/~ftorre/)
+* [Computer Vision for Human-Computer Interaction Lab, KIT, Germany](https://cvhci.anthropomatik.kit.edu)
 
 # Datasets
 * [University of Milano Bicocca 3D Face Database (UMB-DB)](http://www.ivl.disco.unimib.it/umbdb/request.html)
@@ -135,7 +145,7 @@ permalink: /links/
 * [FERET](http://itl.nist.gov/iad/humanid/feret/feret_master.html)
 * [MUCT](http://www.milbo.org/muct/)
 * [NIST GBU](http://www.nist.gov/itl/iad/ig/focs.cfm)
+* [SLAM KITTI](http://www.cvlibs.net/datasets/kitti/)
 
 # Blogs
 * [Computer Vision for dummies](http://www.visiondummy.com)
-* [3D Print](http://3dprint.com)

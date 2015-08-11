@@ -75,6 +75,7 @@ permalink: /links/
 * [PixelMator, photoshop like editor](http://www.pixelmator.com)
 * [MacOS, sure the best user oriented OS](http://www.apple.com/osx)
 * [Autodesk Fusion](http://www.autodesk.com/products/fusion-360/)
+* [Canva, online design editor](https://www.canva.com/)
 
 # Computers
 * [Apple Computers](https://apple.com)

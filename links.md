@@ -28,6 +28,7 @@ permalink: /links/
 * [Keith Price](http://iris.usc.edu/vision-notes/bibliography/contents.html)
 * [IEEE Computer Society Conference Calendar](http://www.computer.org/portal/web/conferences/calendar)
 * [Conference Calendar for Computer Vision, Image Analysis and Related Topics](http://iris.usc.edu/information/Iris-Conferences.html)
+* [arXiv](http://arxiv.org/)
 
 # Learning
 * [WolframAlpha](http://www.wolframalpha.com)
@@ -38,8 +39,8 @@ permalink: /links/
 * [Virtual Online Contests](http://ahmed-aly.com)
 
 # Programming
-* [C++, cpp](http://en.cppreference.com)
-* [C++, c++](http://cplusplus.com)
+* [CppReference](http://en.cppreference.com)
+* [CPlusPlus](http://cplusplus.com)
 * [OpenCV](http://docs.opencv.org)
 * [OpenCL](https://www.khronos.org/opencl)
 * [Halide](http://halide-lang.org)
@@ -73,7 +74,8 @@ permalink: /links/
 * [Tex, the Latex repository](http://www.tug.org)
 * [iDraw, the best vetorial tool for MacOS to design R&amp;D stuff](http://www.indeeo.com/idraw)
 * [PixelMator, photoshop like editor](http://www.pixelmator.com)
-* [MacOS, sure the best user oriented OS](http://www.apple.com/osx)
+* [Apple Mac OS X](http://www.apple.com/osx)
+* [Ubuntu](http://www.ubuntu.com)
 * [Autodesk Fusion](http://www.autodesk.com/products/fusion-360/)
 * [Canva, online design editor](https://www.canva.com/)
 
@@ -114,8 +116,15 @@ permalink: /links/
 * [BigRep](http://bigrep.com/)
 * [FormLabs](http://formlabs.com)
 * [LulzBot](https://www.lulzbot.com)
+* [BotObjects](http://botobjects.com/)
+* [MakerBot](http://www.makerbot.com)
 * [NinjaFlex](http://www.ninjaflex3d.com)
 * [3DXTech, 3D filaments](http://www.3dxtech.com)
+* [TypeAMachine](http://www.typeamachines.com)
+* [Dremel](https://3dprinter.dremel.com)
+* [Ultimaker](https://ultimaker.com)
+* [MakerJuice](http://www.makerjuice.com)
+* [Autodesk Ember](https://ember.autodesk.com/)
 
 # Laboratories
 * [IMAGO Research Group, UFPR, Brazil](http://www.imago.ufpr.br)

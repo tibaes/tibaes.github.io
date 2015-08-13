@@ -125,6 +125,7 @@ permalink: /links/
 * [Ultimaker](https://ultimaker.com)
 * [MakerJuice](http://www.makerjuice.com)
 * [Autodesk Ember](https://ember.autodesk.com/)
+* [MarkForged](https://markforged.com)
 
 # Laboratories
 * [IMAGO Research Group, UFPR, Brazil](http://www.imago.ufpr.br)

@@ -4,9 +4,6 @@ title: Curriculum
 permalink: /cv/
 ---
 
-![](/assets/profile.png)My name is Rafael Henrique Tibães, born in 1990. I am a **Software Developer** with experience in **Computer Vision**, **Data Analysis** and **High Performance Computing**. My favorite field of study is video processing, specifically motion analysis problems, such as behavioral and action recognition; scene understanding; optical flow; object detection, recognition and tracking. Now I am working with affective computing & biometrics, i.e. face analysis and expressions, fingerprint, iris and signature.
-
-## Experience
 * Computer vision researcher & Software developer at [Akiyama, Curitiba](http://akiyama.com.br) (since 2015)
 * Academic researcher at [IMAGO Research Group, UFPR](http://www.imago.ufpr.br) (since 2008)
 
@@ -47,3 +44,4 @@ permalink: /cv/
 **XXVII Congresso Nacional de Estudantes de Computação, 2009**
 
 * 1st place at the programming contest, Curitiba (PR - Brazil)
+

@@ -39,6 +39,8 @@ permalink: /links/
 * [Virtual Online Contests](http://ahmed-aly.com)
 
 # Programming
+* [Hackr](http://hackr.io)
+* [Awesomeness](http://getawesomeness.com)
 * [CppReference](http://en.cppreference.com)
 * [CPlusPlus](http://cplusplus.com)
 * [OpenCV](http://docs.opencv.org)

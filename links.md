@@ -63,6 +63,7 @@ permalink: /links/
 * [STASM - face landmarks](http://www.milbo.users.sonic.net/stasm/)
 * [FLandmark](http://cmp.felk.cvut.cz/~uricamic/flandmark/)
 * [CLandmark](https://github.com/uricamic/clandmark)
+* [Emotient](http://emotient.com)
 
 # Tools
 * [Mathematica, for symbolic programming](http://www.wolfram.com/mathematica/)
@@ -101,7 +102,7 @@ permalink: /links/
 * [Ful-3D, low cost 3D Scanner](https://fuel-3d.com)
 * [B&amp;H, Camera Shopping](http://www.bhphotovideo.com)
 
-# Drones
+# Drones & Robots
 * [Parrot](http://www.parrot.com/)
 * [DJI](http://www.dji.com)
 * [3DR](http://3drobotics.com)
@@ -112,6 +113,10 @@ permalink: /links/
 * [OpenPilot](http://www.openpilot.org)
 * [DIYDrone](http://diydrones.com)
 * [DIYGit](http://diydrones.com)
+* [Rethink Robots](http://www.rethinkrobotics.com)
+* [Kinova](http://www.kinovarobotics.com)
+* [iRobot](http://www.irobot.com)
+* [Synapticon](http://www.synapticon.de)
 
 # 3D Printers
 * [3D Print](http://3dprint.com)
@@ -147,6 +152,7 @@ permalink: /links/
 * [Mitsubishi Electric Research Laboratories, USA](http://www.merl.com)
 * [Robotics Institute CMU, Fernando De la Torre, USA](http://www.cs.cmu.edu/~ftorre/)
 * [Computer Vision for Human-Computer Interaction Lab, KIT, Germany](https://cvhci.anthropomatik.kit.edu)
+* [Robotics, Swiss National Centre of Competence Research](http://www.nccr-robotics.ch)
 
 # Datasets
 * [University of Milano Bicocca 3D Face Database (UMB-DB)](http://www.ivl.disco.unimib.it/umbdb/request.html)

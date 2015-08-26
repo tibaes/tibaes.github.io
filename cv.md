@@ -20,7 +20,7 @@ permalink: /cv/
 * C / C++ for high performance using STL, C++11, CMake.
 * OpenCV, OpenCL and CUDA libraries for computer vision and parallel computing.
 * Wolfram Mathematica to design scientific stuff.
-* Enthusiast of Apple Swift, Unix Shell and NodeJS micro-services.
+* Enthusiast of Apple Swift, Ruby and Unix Shell.
 
 ## Publications
 * Rafael Henrique Tibães, Maurício Pamplona Segundo, Luciano Silva, Olga Regina Pereira Bellon.  **Detecção facial em GPU invariante a pose e escala usando imagens de profundidade.** Workshop of Undergraduate Works at Brazilian Symposium on Computer Graphics and Image Processing (WOW-SIBGRAPI, 2011)

@@ -11,16 +11,22 @@ permalink: /cv/
 * Master of Science, Informatics at [Federal University of Paraná (UFPR)](http://www.ufpr.br) (2015, ongoing)
 * Bachelor of Science, Computer Science at [Federal University of Paraná (UFPR)](http://www.ufpr.br) (2008-2012)
 
-## Languages
-* Portuguese is my mother tongue;
-* English, full business proficiency (B2);
-* German, basic user (A1).
-
 ## Programming Skills
 * C / C++ for high performance using STL, C++11, CMake.
 * OpenCV, OpenCL and CUDA libraries for computer vision and parallel computing.
 * Wolfram Mathematica to design scientific stuff.
 * Enthusiast of Apple Swift, Ruby and Unix Shell.
+
+## Projects
+* Biometrics: face, fingerprint and iris detection and recognition. 
+* Affective computing: actions, face expressions and behaviour modelling.
+* Motion analysis: optical flow, correspondence and object tracking.
+* Vision imaging: 2D / 3D image processing, such as Breuckmann Kinect, Canon, pinhole cameras and fingerprint sensor.
+
+## Languages
+* Portuguese is my mother tongue;
+* English, full business proficiency (B2);
+* German, basic user (A1).
 
 ## Publications
 * Rafael Henrique Tibães, Maurício Pamplona Segundo, Luciano Silva, Olga Regina Pereira Bellon.  **Detecção facial em GPU invariante a pose e escala usando imagens de profundidade.** Workshop of Undergraduate Works at Brazilian Symposium on Computer Graphics and Image Processing (WOW-SIBGRAPI, 2011)

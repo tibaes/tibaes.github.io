@@ -21,7 +21,7 @@ permalink: /cv/
 * Biometrics: face, fingerprint and iris detection and recognition. 
 * Affective computing: actions, face expressions and behaviour modelling.
 * Motion analysis: optical flow, correspondence and object tracking.
-* Vision imaging: 2D / 3D image processing, such as Breuckmann Kinect, Canon, pinhole cameras and fingerprint sensor.
+* Vision imaging: Breuckmann, Kinect, Canon, pinhole cameras.
 
 ## Languages
 * Portuguese is my mother tongue;

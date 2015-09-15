@@ -52,6 +52,7 @@ permalink: /links/
 * [Apple](https://developer.apple.com)
 * [Latex](http://en.wikibooks.org/wiki/LaTeX)
 * [Node](https://nodejs.org)
+* [Atom Electron](http://electron.atom.io)
 * [D3 JavaScript Plotting](http://d3js.org)
 * [Interpreted Languages](http://hyperpolyglot.org/scripting)
 * [Software Licenses](https://tldrlegal.com)

@@ -46,6 +46,7 @@ permalink: /links/
 * [OpenCV](http://docs.opencv.org)
 * [OpenCL](https://www.khronos.org/opencl)
 * [Halide](http://halide-lang.org)
+* [DLib](http://dlib.net)
 * [Point Cloud Library](http://pointclouds.org/documentation)
 * [Wolfram](http://reference.wolfram.com)
 * [NVidia](https://developer.nvidia.com)
@@ -56,11 +57,14 @@ permalink: /links/
 * [D3 JavaScript Plotting](http://d3js.org)
 * [Interpreted Languages](http://hyperpolyglot.org/scripting)
 * [Software Licenses](https://tldrlegal.com)
+* [SciKit](http://scikit-learn.org/)
+* [MLPack](http://www.mlpack.org/)
+* [R Lang](https://www.r-project.org)
+* [CSwig](http://www.swig.org/)
 
 # Biometrics
 * [OpenBR](http://openbiometrics.org)
 * [IntraFace](http://www.humansensing.cs.cmu.edu/)
-* [DLib](http://dlib.net)
 * [STASM - face landmarks](http://www.milbo.users.sonic.net/stasm/)
 * [FLandmark](http://cmp.felk.cvut.cz/~uricamic/flandmark/)
 * [CLandmark](https://github.com/uricamic/clandmark)
@@ -68,6 +72,9 @@ permalink: /links/
 
 # Tools
 * [Mathematica, for symbolic programming](http://www.wolfram.com/mathematica/)
+* [RStudio](https://www.rstudio.com)
+* [RShiny](http://shiny.rstudio.com)
+* [RMarkDown](http://rmarkdown.rstudio.com)
 * [FishShell, an happier version of bash](http://fishshell.com)
 * [Tor, for web privacy](https://www.torproject.org)
 * [QuickSilver, OSX launcher](http://qsapp.com/)
@@ -83,6 +90,8 @@ permalink: /links/
 * [Ubuntu](http://www.ubuntu.com)
 * [Autodesk Fusion](http://www.autodesk.com/products/fusion-360/)
 * [Canva, online design editor](https://www.canva.com/)
+* [Docker, conteiner services](https://www.docker.com)
+* [Vagrant, VM manager](https://www.vagrantup.com)
 
 # Computers
 * [Apple Computers](https://apple.com)
@@ -155,6 +164,7 @@ permalink: /links/
 * [Robotics Institute CMU, Fernando De la Torre, USA](http://www.cs.cmu.edu/~ftorre/)
 * [Computer Vision for Human-Computer Interaction Lab, KIT, Germany](https://cvhci.anthropomatik.kit.edu)
 * [Robotics, Swiss National Centre of Competence Research](http://www.nccr-robotics.ch)
+* [Affective Sciences, University of Geneva, Switzerland](http://www.affective-sciences.ch/)
 
 # Datasets
 * [University of Milano Bicocca 3D Face Database (UMB-DB)](http://www.ivl.disco.unimib.it/umbdb/request.html)

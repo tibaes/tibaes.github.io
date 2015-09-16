@@ -61,6 +61,7 @@ permalink: /links/
 * [MLPack](http://www.mlpack.org/)
 * [R Lang](https://www.r-project.org)
 * [CSwig](http://www.swig.org/)
+* [Julia](http://julialang.org)
 
 # Biometrics
 * [OpenBR](http://openbiometrics.org)

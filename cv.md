@@ -12,16 +12,16 @@ permalink: /cv/
 * Bachelor of Science, Computer Science at [Federal University of Paraná (UFPR)](http://www.ufpr.br) (2008-2012)
 
 ## Programming Skills
-* C / C++ for high performance using STL, C++11, CMake.
-* OpenCV, OpenCL and CUDA libraries for computer vision and parallel computing.
-* Wolfram Mathematica to design scientific stuff.
-* Enthusiast of Apple Swift, Ruby and Unix Shell.
+* Julia for scientific computation; C / C++ for higher performance (c++11, STL, Boost).
+* OpenCV, Halide, OpenCL and CUDA libraries for computer vision and parallel computing.
+* Enthusiast of Apple Swift, Wolfram Mathematica, Python, Ruby, R, Node.JS, and Unix Shell.
 
 ## Projects
-* Biometrics: face, fingerprint and iris detection and recognition. 
+
 * Affective computing: actions, face expressions and behaviour modelling.
 * Motion analysis: optical flow, correspondence and object tracking.
 * Vision imaging: Breuckmann, Kinect, Canon, pinhole cameras.
+* Assistance: Newborns identification; Continuous authentication; 3D reconstruction.
 
 ## Languages
 * Portuguese is my mother tongue;
@@ -47,7 +47,7 @@ permalink: /cv/
 
 * 67th place (out of 1515 teams)
 
-**XXVII Congresso Nacional de Estudantes de Computação, 2009**
+**XXVII Congresso Nacional de Estudantes de Computação, 2009**
 
 * 1st place at the programming contest, Curitiba (PR - Brazil)
 

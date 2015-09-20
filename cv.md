@@ -17,10 +17,8 @@ permalink: /cv/
 * Enthusiast of Apple Swift, Wolfram Mathematica, Python, Ruby, R, Node.JS, and Unix Shell.
 
 ## Projects
-
-* Affective computing: actions, face expressions and behaviour modelling.
-* Motion analysis: optical flow, correspondence and object tracking.
-* Vision imaging: Breuckmann, Kinect, Canon, pinhole cameras.
+* Main research: Affective computing with focus on face analysis, motion processing and behaviour modelling.
+* Side projects: Biometrics as a service, i.e. integrating face, fingerprint and iris into commercial systems.
 * Assistance: Newborns identification; Continuous authentication; 3D reconstruction.
 
 ## Languages

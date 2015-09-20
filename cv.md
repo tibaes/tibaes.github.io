@@ -17,9 +17,10 @@ permalink: /cv/
 * Enthusiast of Apple Swift, Wolfram Mathematica, Python, Ruby, R, Node.JS, and Unix Shell.
 
 ## Projects
-* Main research: Affective computing with focus on face analysis, motion processing and behaviour modelling.
-* Side projects: Biometrics as a service, i.e. integrating face, fingerprint and iris into commercial systems.
-* Assistance: Newborns identification; Continuous authentication; 3D reconstruction.
+* Affective computing with focus on face analysis, motion processing and behaviour modelling.
+* Biometrics as a service, i.e. integrating face, fingerprint and iris into commercial systems.
+* Newborns identification, working both in the sensor design and in the software.
+* Leader of a team of young data scientists, pursuing challenges in the web as a hobby.
 
 ## Languages
 * Portuguese is my mother tongue;

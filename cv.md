@@ -30,7 +30,7 @@ permalink: /cv/
 ## Publications
 * Rafael Henrique Tibães, Maurício Pamplona Segundo, Luciano Silva, Olga Regina Pereira Bellon.  **Detecção facial em GPU invariante a pose e escala usando imagens de profundidade.** Workshop of Undergraduate Works at Brazilian Symposium on Computer Graphics and Image Processing (WOW-SIBGRAPI, 2011)
 * Rafael Henrique Tibães. **Detecção facial em imagens 3D utilizando processamento paralelo.** Monografia, Bacharelado em Ciências da Computação, Universidade Federal do Paraná (2012)
-* [Directory with all publication files](https://www.dropbox.com/sh/ba3rduobhvanhyb/AAC35RlrGfriqLE5rRY9aIgia?dl=0)
+* [Directory with all publication files](https://publications.fael.nl)
 
 ## Awards
 **Computer Science work at UFPR undergraduate research event**

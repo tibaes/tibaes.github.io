@@ -31,6 +31,7 @@ permalink: /links/
 * [arXiv](http://arxiv.org/)
 
 # Learning
+* [JuliaBox](http://juliabox.org)
 * [WolframAlpha](http://www.wolframalpha.com)
 * [Udacity](https://www.udacity.com)
 * [SPOJ](http://www.spoj.pl)
@@ -72,13 +73,12 @@ permalink: /links/
 * [Emotient](http://emotient.com)
 
 # Tools
+* [GPG, encription messages](https://gpgtools.org)
+* [Keybase, encription network](https://keybase.io/)
+* [Juno, julia IDE](http://junolab.org)
 * [Mathematica, for symbolic programming](http://www.wolfram.com/mathematica/)
-* [RStudio](https://www.rstudio.com)
-* [RShiny](http://shiny.rstudio.com)
-* [RMarkDown](http://rmarkdown.rstudio.com)
 * [FishShell, an happier version of bash](http://fishshell.com)
 * [Tor, for web privacy](https://www.torproject.org)
-* [QuickSilver, OSX launcher](http://qsapp.com/)
 * [VLC, the general media player](http://www.videolan.org/vlc/)
 * [Viscosity, the best VPN client for MacOS](https://www.sparklabs.com/viscosity)
 * [Vim, the best code editor for terminal](http://www.vim.org)

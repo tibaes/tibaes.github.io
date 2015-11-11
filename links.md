@@ -38,6 +38,7 @@ permalink: /links/
 * [Codeforces](http://codeforces.com)
 * [ACM-ICPC Live Archive](http://livearchive.onlinejudge.org)
 * [Virtual Online Contests](http://ahmed-aly.com)
+* [MS ML Azure](https://studio.azureml.net)
 
 # Programming
 * [Hackr](http://hackr.io)
@@ -49,6 +50,7 @@ permalink: /links/
 * [Halide](http://halide-lang.org)
 * [DLib](http://dlib.net)
 * [Point Cloud Library](http://pointclouds.org/documentation)
+* [Google TensorFlow](http://www.tensorflow.org)
 * [Wolfram](http://reference.wolfram.com)
 * [NVidia](https://developer.nvidia.com)
 * [Apple](https://developer.apple.com)
@@ -71,6 +73,7 @@ permalink: /links/
 * [FLandmark](http://cmp.felk.cvut.cz/~uricamic/flandmark/)
 * [CLandmark](https://github.com/uricamic/clandmark)
 * [Emotient](http://emotient.com)
+* [MS Proj. Oxford](https://www.projectoxford.ai)
 
 # Tools
 * [GPG, encription messages](https://gpgtools.org)
@@ -117,6 +120,7 @@ permalink: /links/
 # Drones & Robots
 * [Parrot](http://www.parrot.com/)
 * [DJI](http://www.dji.com)
+* [DJI Developer](https://developer.dji.com/)
 * [3DR](http://3drobotics.com)
 * [Percepto](http://www.percepto.co)
 * [Ardupilot](http://ardupilot.com)

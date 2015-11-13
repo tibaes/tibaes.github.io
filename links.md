@@ -51,6 +51,7 @@ permalink: /links/
 * [DLib](http://dlib.net)
 * [Point Cloud Library](http://pointclouds.org/documentation)
 * [Google TensorFlow](http://www.tensorflow.org)
+* [MS DMLK](http://www.dmtk.io)
 * [Wolfram](http://reference.wolfram.com)
 * [NVidia](https://developer.nvidia.com)
 * [Apple](https://developer.apple.com)

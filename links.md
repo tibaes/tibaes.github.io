@@ -118,6 +118,7 @@ permalink: /links/
 * [Aicon, 3D Scanners](http://aicon3d.com)
 * [Ful-3D, low cost 3D Scanner](https://fuel-3d.com)
 * [B&amp;H, Camera Shopping](http://www.bhphotovideo.com)
+* [LeopardImaging](https://www.leopardimaging.com)
 
 # Drones & Robots
 * [Parrot](http://www.parrot.com/)
@@ -135,6 +136,7 @@ permalink: /links/
 * [Kinova](http://www.kinovarobotics.com)
 * [iRobot](http://www.irobot.com)
 * [Synapticon](http://www.synapticon.de)
+* [HobbyKing](http://www.hobbyking.com)
 
 # 3D Printers
 * [3D Print](http://3dprint.com)
@@ -184,6 +186,7 @@ permalink: /links/
 * [MUCT](http://www.milbo.org/muct/)
 * [NIST GBU](http://www.nist.gov/itl/iad/ig/focs.cfm)
 * [SLAM KITTI](http://www.cvlibs.net/datasets/kitti/)
+* [ImageNet](http://www.image-net.org)
 
 # Blogs
 * [Computer Vision for dummies](http://www.visiondummy.com)

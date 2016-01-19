@@ -4,11 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
-![http://www.akiyama.com.br](/assets/logo.png)
+<img scr="/assets/logo.png" class="large-img" href="http://www.akiyama.com.br">
 
-Akiyama, Pesquisa e Desenvolvimento
-Rua Prof Antonia Reginato Vianna, 485
-82810-300 Curitiba Paraná
+# Akiyama, Pesquisa e Desenvolvimento
+Rua Prof Antonia Reginato Vianna, 485 <br>
+82810-300 Curitiba Paraná <br>
 Brasil
 
 # e-mail

@@ -6,10 +6,10 @@ permalink: /contact/
 
 ![http://www.akiyama.com.br](/assets/logo.png)
 
-
-* Rua Prof Antonia Reginato Vianna, 485
-* 82810-300 Curitiba Paraná
-* Brasil
+Akiyama, Pesquisa e Desenvolvimento
+Rua Prof Antonia Reginato Vianna, 485
+82810-300 Curitiba Paraná
+Brasil
 
 # e-mail
 * rafael.tibaes at akiyama dot com.br (work)

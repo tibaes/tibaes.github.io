@@ -4,8 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-<img class="large-img" src="/assets/notfound.png">
-<a href="http://www.akiyama.com.br"><img class="large-img" scr="/assets/logo.png"></a>
+<a href="http://www.akiyama.com.br"><img class="large-img" src="/assets/logoo.png"></a>
 
 # Akiyama, Pesquisa e Desenvolvimento
 Rua Prof Antonia Reginato Vianna, 485 <br>

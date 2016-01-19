@@ -4,7 +4,7 @@ title: Curriculum
 permalink: /cv/
 ---
 
-* Computer vision researcher & Software developer at [Akiyama, Curitiba](http://akiyama.com.br) (since 2015)
+* Software developer at [Akiyama, Curitiba](http://akiyama.com.br) (since 2015)
 * Academic researcher at [IMAGO Research Group, UFPR](http://www.imago.ufpr.br) (since 2008)
 
 ## Education
@@ -14,13 +14,12 @@ permalink: /cv/
 ## Programming Skills
 * Julia for scientific computation; C / C++ for higher performance (c++11, STL, Boost).
 * OpenCV, Halide, OpenCL and CUDA libraries for computer vision and parallel computing.
-* Enthusiast of Apple Swift, Wolfram Mathematica, Python, Ruby, R, Node.JS, and Unix Shell.
+* Enthusiast of Qt, Apple Swift, Wolfram Mathematica, Python, Ruby, R, Node.JS, and Unix Shell.
 
 ## Projects
 * Affective computing with focus on face analysis, motion processing and behaviour modelling.
 * Biometrics as a service, i.e. integrating face, fingerprint and iris into commercial systems.
 * Newborns identification, working both in the sensor design and in the software.
-* Leader of a team of young data scientists, pursuing challenges in the web as a hobby.
 
 ## Languages
 * Portuguese is my mother tongue;

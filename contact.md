@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact 
-permalink: /contact
+permalink: /contact/
 ---
 
 ![http://www.akiyama.com.br](/assets/logo.png)

@@ -7,9 +7,9 @@ permalink: /contact/
 ![http://www.akiyama.com.br](/assets/logo.png)
 
 # Akiyama, Pesquisa e Desenvolvimento
-Rua Prof Antonia Reginato Vianna, 485
-82810-300 Curitiba Paraná
-Brasil
+* Rua Prof Antonia Reginato Vianna, 485
+* 82810-300 Curitiba Paraná
+* Brasil
 
 # e-mail
 * *Work*: rafael.tibaes at akiyama dot com.br
@@ -18,14 +18,11 @@ Brasil
 
 # Network
 • [Blog](http://wp.fael.nl)
+• [LinkedIn](http://in.fael.nl)
+• [Lattes](http://lattes.fael.nl)
+• [ResearchGate](http://rg.fael.nl) 
 • [Cloud](http://rand.fael.nl)
-• [Instagram](http://insta.fael.nl)
-• [53Mixes](http://mix.fael.nl)
 • [GitHub](http://git.fael.nl)
 • [BitBucket](http://bb.fael.nl)
 • [Twitter](http://tt.fael.nl)
-• [Facebook](http://fb.fael.nl)
-• [LinkedIn](http://in.fael.nl)
-• [Google+](http://gg.fael.nl)
-• [Lattes](http://lattes.fael.nl)
-• [ResearchGate](http://rg.fael.nl) • 
+• [Facebook](http://fb.fael.nl) •

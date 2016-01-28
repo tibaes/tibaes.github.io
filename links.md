@@ -45,6 +45,7 @@ permalink: /links/
 * [Awesomeness](http://getawesomeness.com)
 * [CppReference](http://en.cppreference.com)
 * [CPlusPlus](http://cplusplus.com)
+* [Boost](http://www.boost.org)
 * [OpenCV](http://docs.opencv.org)
 * [OpenCL](https://www.khronos.org/opencl)
 * [Halide](http://halide-lang.org)
@@ -66,6 +67,8 @@ permalink: /links/
 * [R Lang](https://www.r-project.org)
 * [CSwig](http://www.swig.org/)
 * [Julia](http://julialang.org)
+* [Bitrise, mobile development CI&CD](https://www.bitrise.io)
+* [Cocoapods](https://cocoapods.org)
 
 # Biometrics
 * [OpenBR](http://openbiometrics.org)
@@ -98,6 +101,7 @@ permalink: /links/
 * [Docker, conteiner services](https://www.docker.com)
 * [Vagrant, VM manager](https://www.vagrantup.com)
 * [Dat, git for datasets](http://dat-data.com)
+* [Shodan, view devices in the web](https://www.shodan.io)
 
 # Computers
 * [Apple Computers](https://apple.com)

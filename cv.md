@@ -6,6 +6,7 @@ permalink: /cv/
 
 * Software developer at [Akiyama, Curitiba](http://akiyama.com.br) (since 2015)
 * Academic researcher at [IMAGO Research Group, UFPR](http://www.imago.ufpr.br) (since 2008)
+* Indie iOS App developer, actually working on my secret project (since 2015) 
 
 ## Education
 * Master of Science, Informatics at [Federal University of Paraná (UFPR)](http://www.ufpr.br) (2015, ongoing)

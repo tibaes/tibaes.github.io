@@ -11,7 +11,6 @@ Brasil
 
 # e-mail
 * rafael.tibaes at akiyama dot com.br (work)
-* rhtibaes at inf dot ufpr.br (university)
 * r at fael.nl (private)
 
 # Network

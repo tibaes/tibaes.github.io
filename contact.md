@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-I have a [Keybase](keybase.io/tibaes) account, so you may use safe communication with me.
+I have a [Keybase](https://keybase.io/tibaes) account, so you may use safe communication with me.
 
 # Akiyama, Pesquisa e Desenvolvimento
 rafael.tibaes at akiyama dot com.br <br>

@@ -20,7 +20,7 @@ Software Developer with experience in Biometrics, Machine Learning, Computer Vis
 * Bachelor of Science, Computer Science at [Federal University of Paraná (UFPR)](http://www.ufpr.br) (2008-2012)
 
 ## Projects
-* Real-time face analysis analysis and identification using 2D/3D images (ICAO);
+* Real-time face analysis and identification using 2D/3D images (ICAO);
 * Newborns identification using high-resolution fingerprint images;
 * Biometrics as a service, i.e. integrating face, fingerprint and iris into commercial systems.
 * Affective computing with focus in motion processing and behaviour modelling.

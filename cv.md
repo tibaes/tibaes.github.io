@@ -12,7 +12,7 @@ Software Developer with experience in Biometrics, Machine Learning, Computer Vis
 * Brazilian and Portuguese citizenship.
 
 ## Work Experience
-* Biometrics research at [iVision, UFBA](http://www.ivisionlab.eng.ufba.br)(since 2016)
+* Biometrics research at [iVision, UFBA](http://www.ivisionlab.eng.ufba.br) (since 2016)
 * Biometrics development at [Akiyama, Curitiba](http://akiyama.com.br) (since 2015)
 * Academic researcher at [IMAGO Research Group, UFPR](http://www.imago.ufpr.br) (2008-2015)
 

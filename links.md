@@ -30,7 +30,8 @@ permalink: /links/
 * [Conference Calendar for Computer Vision, Image Analysis and Related Topics](http://iris.usc.edu/information/Iris-Conferences.html)
 * [arXiv](http://arxiv.org/)
 
-# Learning
+# Cloud
+* [DigitalOcean (Referral)](https://m.do.co/c/71a107e34a58)
 * [JuliaBox](http://juliabox.org)
 * [WolframAlpha](http://www.wolframalpha.com)
 * [Udacity](https://www.udacity.com)
@@ -69,6 +70,7 @@ permalink: /links/
 * [Julia](http://julialang.org)
 * [Bitrise, mobile development CI&CD](https://www.bitrise.io)
 * [Cocoapods](https://cocoapods.org)
+* [ReactivX](http://reactivex.io)
 
 # Biometrics
 * [OpenBR](http://openbiometrics.org)
@@ -78,10 +80,12 @@ permalink: /links/
 * [CLandmark](https://github.com/uricamic/clandmark)
 * [Emotient](http://emotient.com)
 * [MS Proj. Oxford](https://www.projectoxford.ai)
+* [Drawnet Convolution Networks](http://people.csail.mit.edu/torralba/research/drawCNN/drawNet.html)
 
 # Tools
 * [GPG, encription messages](https://gpgtools.org)
 * [Keybase, encription network](https://keybase.io/)
+* [Jetbrains CLion, C++ Coding](https://www.jetbrains.com/clion/)
 * [Juno, julia IDE](http://junolab.org)
 * [Mathematica, for symbolic programming](http://www.wolfram.com/mathematica/)
 * [FishShell, an happier version of bash](http://fishshell.com)
@@ -159,6 +163,7 @@ permalink: /links/
 * [MarkForged](https://markforged.com)
 
 # Laboratories
+* [iVision, UFBA, Brazil](http://www.ivisionlab.eng.ufba.br)
 * [IMAGO Research Group, UFPR, Brazil](http://www.imago.ufpr.br)
 * [Computer Vision and Pattern Recognition Group, WWU, Germany](http://cvpr.uni-muenster.de)
 * [Computer Vision Laboratory, ETHZ, Switzerland](http://www.vision.ee.ethz.ch)

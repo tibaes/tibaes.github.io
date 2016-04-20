@@ -81,7 +81,6 @@ permalink: /links/
 * [Emotient](http://emotient.com)
 * [MS Proj. Oxford](https://www.projectoxford.ai)
 * [Drawnet Convolution Networks](http://people.csail.mit.edu/torralba/research/drawCNN/drawNet.html)
-
 # Tools
 * [GPG, encription messages](https://gpgtools.org)
 * [Keybase, encription network](https://keybase.io/)
@@ -90,6 +89,7 @@ permalink: /links/
 * [Mathematica, for symbolic programming](http://www.wolfram.com/mathematica/)
 * [FishShell, an happier version of bash](http://fishshell.com)
 * [Tor, for web privacy](https://www.torproject.org)
+
 * [VLC, the general media player](http://www.videolan.org/vlc/)
 * [Viscosity, the best VPN client for MacOS](https://www.sparklabs.com/viscosity)
 * [Vim, the best code editor for terminal](http://www.vim.org)
@@ -185,17 +185,20 @@ permalink: /links/
 * [Affective Sciences, University of Geneva, Switzerland](http://www.affective-sciences.ch/)
 
 # Datasets
-* [University of Milano Bicocca 3D Face Database (UMB-DB)](http://www.ivl.disco.unimib.it/umbdb/request.html)
-* [Middlebury, Optical Flow](http://vision.middlebury.edu/flow/data/)
-* [Facial Expressions](http://cs.anu.edu.au/few/emotiw.html)
-* [Database List](http://homepages.inf.ed.ac.uk/rbf/CVonline/)
-* [Kinect Gaming Gestures](http://dipersec.king.ac.uk/G3D/G3D.html)
-* [Basel Face Model](http://faces.cs.unibas.ch/bfm/)
-* [FERET](http://itl.nist.gov/iad/humanid/feret/feret_master.html)
-* [MUCT](http://www.milbo.org/muct/)
-* [NIST GBU](http://www.nist.gov/itl/iad/ig/focs.cfm)
-* [SLAM KITTI](http://www.cvlibs.net/datasets/kitti/)
-* [ImageNet](http://www.image-net.org)
+* [Face: University of Milano Bicocca 3D Face Database (UMB-DB)](http://www.ivl.disco.unimib.it/umbdb/request.html)
+* [Flow: Middlebury, Optical Flow](http://vision.middlebury.edu/flow/data/)
+* [Face: Facial Expressions in the Wild](http://cs.anu.edu.au/few/emotiw.html)
+* [Face: Database List](http://homepages.inf.ed.ac.uk/rbf/CVonline/)
+* [Motion: Kinect Gaming Gestures](http://dipersec.king.ac.uk/G3D/G3D.html)
+* [Face: Basel Face Model](http://faces.cs.unibas.ch/bfm/)
+* [Face: FERET](http://itl.nist.gov/iad/humanid/feret/feret_master.html)
+* [Face: MUCT](http://www.milbo.org/muct/)
+* [Face: NIST GBU](http://www.nist.gov/itl/iad/ig/focs.cfm)
+* [Face: SLAM KITTI](http://www.cvlibs.net/datasets/kitti/)
+* [Objects: ImageNet](http://www.image-net.org)
+* [Objects: MS Coco](http://mscoco.org/)
+* [Flow: MPI SIntel](http://sintel.is.tue.mpg.de/)
+* 
 
 # Blogs
 * [Computer Vision for dummies](http://www.visiondummy.com)

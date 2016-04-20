@@ -29,6 +29,7 @@ permalink: /links/
 * [IEEE Computer Society Conference Calendar](http://www.computer.org/portal/web/conferences/calendar)
 * [Conference Calendar for Computer Vision, Image Analysis and Related Topics](http://iris.usc.edu/information/Iris-Conferences.html)
 * [arXiv](http://arxiv.org/)
+* [Sci-HUB](http://sci-hub.io)
 
 # Cloud
 * [DigitalOcean (Referral)](https://m.do.co/c/71a107e34a58)

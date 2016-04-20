@@ -198,7 +198,6 @@ permalink: /links/
 * [Objects: ImageNet](http://www.image-net.org)
 * [Objects: MS Coco](http://mscoco.org/)
 * [Flow: MPI SIntel](http://sintel.is.tue.mpg.de/)
-* 
 
 # Blogs
 * [Computer Vision for dummies](http://www.visiondummy.com)

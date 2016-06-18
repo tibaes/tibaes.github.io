@@ -82,15 +82,18 @@ permalink: /links/
 * [Emotient](http://emotient.com)
 * [MS Proj. Oxford](https://www.projectoxford.ai)
 * [Drawnet Convolution Networks](http://people.csail.mit.edu/torralba/research/drawCNN/drawNet.html)
+
 # Tools
 * [GPG, encription messages](https://gpgtools.org)
 * [Keybase, encription network](https://keybase.io/)
 * [Jetbrains CLion, C++ Coding](https://www.jetbrains.com/clion/)
 * [Juno, julia IDE](http://junolab.org)
 * [Mathematica, for symbolic programming](http://www.wolfram.com/mathematica/)
+* [Wagon, sql for data science](https://www.wagonhq.com/)
 * [FishShell, an happier version of bash](http://fishshell.com)
 * [Tor, for web privacy](https://www.torproject.org)
-
+* [Brace, no tracking browser](https://brave.com)
+* [WebTorrent, torrent streaming](https://webtorrent.io)
 * [VLC, the general media player](http://www.videolan.org/vlc/)
 * [Viscosity, the best VPN client for MacOS](https://www.sparklabs.com/viscosity)
 * [Vim, the best code editor for terminal](http://www.vim.org)

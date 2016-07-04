@@ -31,7 +31,7 @@ permalink: /links/
 * [arXiv](http://arxiv.org/)
 * [Sci-HUB](http://sci-hub.io)
 
-# Cloud
+# Playground
 * [DigitalOcean (Referral)](https://m.do.co/c/71a107e34a58)
 * [JuliaBox](http://juliabox.org)
 * [WolframAlpha](http://www.wolframalpha.com)
@@ -41,6 +41,8 @@ permalink: /links/
 * [ACM-ICPC Live Archive](http://livearchive.onlinejudge.org)
 * [Virtual Online Contests](http://ahmed-aly.com)
 * [MS ML Azure](https://studio.azureml.net)
+* [DataKind](http://www.datakind.org)
+* [Kaggle](https://www.kaggle.com)
 
 # Programming
 * [Hackr](http://hackr.io)

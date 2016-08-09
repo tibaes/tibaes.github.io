@@ -1,13 +1,65 @@
-# Site settings
+# Site
 title: Rafael Henrique Tibães
-email: r@fael.nl
-description: > # this means to ignore newlines until "baseurl:"
-  Software research & development at Akiyama Biometrics. Much code, such hack, wow.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://fael.nl" # the base hostname & protocol for your site
-twitter_username: rafaeltibaes
-github_username:  tibaes
-permalink: /:categories/:title/
+description: Computer [Vision] Scientist
+url: http://fael.nl
+logo: public_id.png
+locale: en_US
 
-# Build settings
-markdown: kramdown
+# Left Block Images
+background:
+  homepage: images/public_cover.jpg
+  post-list: images/unsplash-image-10.jpg             # this image will be shown on post list page
+  default-post: images/unsplash-gallery-image-3.jpg   # this image will be shown when post's front matter doesn't specify any image
+
+# Jekyll
+permalink:          /:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+sass:
+  sass_dir:         assets/_sass
+  style:            compressed
+
+# Google Analytics
+#google-analytics: UA-XXXXX-Y
+
+# Social Links
+email:             r@fael.nl
+#google.plus:        username
+twitter:            rafaeltibaes
+#facebook:           username
+github:             tibaes
+# stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          rafaeltibaes
+#xing:              username
+instagram:          fael.nl
+#lastfm:            username
+#tumblr:            username
+#pinterest:         username
+#foursquare:        username
+#steam:              username
+#dribbble:          username
+#youtube:           username
+#soundcloud:        username
+#weibo:             username
+#flickr:            username
+#codepen:           username
+keybase:           tibaes
+#xmpp:              username@server.com
+#hackernews:        username
+#behance:           username
+
+# Gems
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+
+# Exclude list
+include: [_pages]
+exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store]

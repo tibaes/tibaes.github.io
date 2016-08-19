@@ -22,3 +22,4 @@ tags:
 * [MS ML Azure](https://studio.azureml.net)
 * [DataKind](http://www.datakind.org)
 * [Kaggle](https://www.kaggle.com)
+* [IBM Swift](https://swiftlang.ng.bluemix.net)

@@ -14,4 +14,5 @@ tags:
 ---
 
 * [Computational and Inferential Thinking Book](https://ds8.gitbooks.io/textbook/content/index.html)
+* [MIT Press Book: Deep Learning](http://www.deeplearningbook.org)
 * [Drawnet Convolution Networks](http://people.csail.mit.edu/torralba/research/drawCNN/drawNet.html)

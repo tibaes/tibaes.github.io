@@ -40,3 +40,5 @@ tags:
 * [Cocoapods](https://cocoapods.org)
 * [IBM Swift Packages](https://swiftpkgs.ng.bluemix.net/#/repl)
 * [ReactivX](http://reactivex.io)
+* [Concourse CI](https://concourse.ci)
+* [Waffle Project Management](https://waffle.io)

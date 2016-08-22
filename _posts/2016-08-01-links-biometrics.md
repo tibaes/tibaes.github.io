@@ -19,4 +19,3 @@ tags:
 * [CLandmark](https://github.com/uricamic/clandmark)
 * [Emotient](http://emotient.com)
 * [MS Proj. Oxford](https://www.projectoxford.ai)
-* [Drawnet Convolution Networks](http://people.csail.mit.edu/torralba/research/drawCNN/drawNet.html)

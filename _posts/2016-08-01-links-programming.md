@@ -38,4 +38,5 @@ tags:
 * [Julia](http://julialang.org)
 * [Bitrise, mobile development CI&CD](https://www.bitrise.io)
 * [Cocoapods](https://cocoapods.org)
+* [IBM Swift Packages](https://swiftpkgs.ng.bluemix.net/#/repl)
 * [ReactivX](http://reactivex.io)

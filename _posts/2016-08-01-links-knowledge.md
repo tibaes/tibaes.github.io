@@ -11,6 +11,7 @@ tags:
   - links
 ---
 
+* [Capes Conference Qualis](http://qualis.ic.ufmt.br/)
 * [Face Recognition](http://www.face-rec.org)
 * [IEEE Xplore](http://ieeexplore.ieee.org)
 * [ScienceDirect](http://www.sciencedirect.com)

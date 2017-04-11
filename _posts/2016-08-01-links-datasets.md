@@ -26,4 +26,5 @@ tags:
 * [Flow: MPI SIntel](http://sintel.is.tue.mpg.de/)
 * [Flow: Middlebury, Optical Flow](http://vision.middlebury.edu/flow/data/)
 * [Motion: Kinect Gaming Gestures](http://dipersec.king.ac.uk/G3D/G3D.html)
+* [DAVIS Semantic Video Segmentation](http://davischallenge.org/)
 

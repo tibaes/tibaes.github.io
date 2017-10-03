@@ -1,20 +1,19 @@
 # Site settings
-title: Rafael's Bio
+title: fael's bio
 description: Hi, my name is Rafael Henrique Tibães. My expertise is about high performance biometrics solutions. Hope you find valuable information here, and feel free to contact me.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Rafael Henrique Tibães
-user_description: Software Developer with experience in Biometrics, Machine Learning, Computer Vision and High Performance Computing. Graduated in Computer Science (UFPR, 2012) and now pursuing a Master (UFBA) degree with focus on biometric solutions for newborn identification.
+user_description: Computer [Vision] Scientist with experience in Biometrics, Machine Learning, Image Processing and High Performance Computing. Graduated in Computer Science (UFPR, 2012) and now pursuing a Master (UFBA) degree with focus on biometric solutions for newborn identification. Working as Research & Development Engineer at Akiyama, Curitiba.
 user_title: Computer [Vision] Scientist
 email: hi@fael.nl
 twitter_username: rafaeltibaes
 github_username:  tibaes
-gplus_username:  rafaeltibaes
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-60502775-1"
 
 exclude: ['package.json', 'src' , 'node_modules']

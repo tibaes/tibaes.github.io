@@ -1,65 +1,20 @@
-# Site
-title: Rafael Henrique Tibães
-description: Computer [Vision] Scientist
-url: http://fael.nl
-logo: public_id.png
-locale: en_US
+# Site settings
+title: Rafael's Bio
+description: Hi, my name is Rafael Henrique Tibães. My expertise is about high performance biometrics solutions. Hope you find valuable information here, and feel free to contact me.
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
-# Left Block Images
-background:
-  homepage: images/public_cover.jpg
-  post-list: images/unsplash-image-10.jpg             # this image will be shown on post list page
-  default-post: images/unsplash-gallery-image-3.jpg   # this image will be shown when post's front matter doesn't specify any image
+# User settings
+username: Rafael Henrique Tibães
+user_description: Software Developer with experience in Biometrics, Machine Learning, Computer Vision and High Performance Computing. Graduated in Computer Science (UFPR, 2012) and now pursuing a Master (UFBA) degree with focus on biometric solutions for newborn identification.
+user_title: Computer [Vision] Scientist
+email: hi@fael.nl
+twitter_username: rafaeltibaes
+github_username:  tibaes
+gplus_username:  rafaeltibaes
 
-# Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-sass:
-  sass_dir:         assets/_sass
-  style:            compressed
+# Google-analytics
+google-analytics:
+  id: ""
 
-# Google Analytics
-#google-analytics: UA-XXXXX-Y
-
-# Social Links
-email:             r@fael.nl
-#google.plus:        username
-twitter:            rafaeltibaes
-#facebook:           username
-github:             tibaes
-stackoverflow:     6491303/rafael
-linkedin:          rafaeltibaes
-#xing:              username
-instagram:          fael.nl
-#lastfm:            username
-#tumblr:            username
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
-#youtube:           username
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-keybase:           tibaes
-#xmpp:              username@server.com
-#hackernews:        username
-#behance:           username
-
-# Gems
-gems:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
-
-# Exclude list
-include: [_pages]
-exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store]
+exclude: ['package.json', 'src' , 'node_modules']

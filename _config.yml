@@ -6,7 +6,7 @@ url: "localhost:3000" # the base hostname & protocol for your site e.g. http://w
 
 # User settings
 username: Rafael Henrique Tibães
-user_description: Computer Vision Scientist with experience in Biometrics, Machine Learning, Image Processing and High Performance Computing. Graduated in Computer Science (UFPR, 2012) and now pursuing a Master (UFBA) degree with focus on biometric solutions for newborn identification. Working as Machine Learning Engineer at Akiyama, Curitiba, where I develop algorithms for biometrics.
+user_description: Software Developer with experience in biometrics, machine learning, computer vision and high-performance computing. Graduated in Computer Science (UFPR, 2012) and now pursuing a master’s degree (UFBA) with focus on biometrics. Working as Computer Vision Developer at Akiyama, Curitiba, where I develop algorithms for biometrics.
 user_title: Computer Vision • Machine Learning • Julia • C++
 email: hi@fael.nl
 twitter_username: rafaeltibaes

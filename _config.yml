@@ -6,7 +6,7 @@ url: "localhost:3000" # the base hostname & protocol for your site e.g. http://w
 
 # User settings
 username: Rafael Henrique Tibães
-user_description: Machine Learning Engineer with experience in computer vision and high-performance computing. Graduated in Computer Science (UFPR, 2012) and now pursuing a master’s degree (UFBA).
+user_description: Machine Learning Engineer with experience in data science, computer vision and high-performance computing. Graduated in Computer Science (UFPR, 2012) and now pursuing a master’s degree (UFBA).
 user_title: Computer Vision • Machine Learning • Julia • C++
 email: hi@fael.nl
 twitter_username: rafaeltibaes

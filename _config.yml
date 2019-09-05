@@ -1,12 +1,12 @@
 # Site settings
 title: fael's bio
-description: Hi, my name is Rafael Henrique Tibães. My expertise is about high performance biometrics solutions. Hope you find valuable information here, and feel free to contact me.
+description: Hi, my name is Rafael Henrique Tibães. My expertise is about computer vision solutions. Hope you find valuable information here, and feel free to contact me.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Rafael Henrique Tibães
-user_description: Machine Learning Engineer with experience in data science, computer vision and high-performance computing. Graduated in Computer Science (UFPR, 2012) and now pursuing a master’s degree (UFBA).
+user_description: Data Scientist with experience in insurance, computer vision, biometrics and high-performance computing. Holding a master’s degree in Computer Science from Federal University of Bahia (UFBA) and a bachelor’s degree in Computer Science from Federal University of Parana (UFPR).
 user_title: Computer Vision • Machine Learning • Artificial Intelligence
 email: hi@fael.nl
 twitter_username: rafaeltibaes

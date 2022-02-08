@@ -6,8 +6,8 @@ url: "localhost:3000" # the base hostname & protocol for your site e.g. http://w
 
 # User settings
 username: Rafael Henrique Tibães
-user_description: Data Scientist with experience in insurance, computer vision, biometrics and high-performance computing. Holding a master’s degree in Computer Science from Federal University of Bahia (UFBA) and a bachelor’s degree in Computer Science from Federal University of Parana (UFPR).
-user_title: Computer Vision • Machine Learning • Artificial Intelligence
+user_description: Computer Vision Specialist with experience in data science, machine learning, insurance and biometrics. Holding a master’s degree in Computer Science from Federal University of Bahia (UFBA) and a bachelor’s degree in Computer Science from Federal University of Parana (UFPR).
+user_title: Computer Vision Engineer
 email: hi@fael.nl
 twitter_username: rafaeltibaes
 github_username:  tibaes

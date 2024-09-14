@@ -41,6 +41,12 @@
 </head>
 <body>
   <script>
+    window.onbeforeprint = function() {
+        window.flutterWebRenderer = "html";
+        window.print()
+    }
+  </script>
+  <script>
     window.addEventListener('load', function(ev) {
       // Download main.dart.js
       _flutter.loader.loadEntrypoint({
